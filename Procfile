@@ -1,1 +1,1 @@
-web: gunicorn onshopss.wsgi:application --log-file -
+web: gunicorn myshop.wsgi:application --log-file -
