@@ -1,0 +1,2 @@
+# shop
+pip install Pillow
